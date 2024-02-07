@@ -167,7 +167,6 @@
         </div>
       </div>
     </div>
-    <div style="color:black; text-align: center; padding-top: 20px;padding-bottom: 0px; font-weight: bold">Developed by <span style="color:#295796">Mostafa Emon</span></div>
   </div>
 </template>
 
